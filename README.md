@@ -1,2 +1,2 @@
 # Rainbow-Song
-Git tutorial 
+Git tutorial in the key of g major
